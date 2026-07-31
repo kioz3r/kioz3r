@@ -55,15 +55,7 @@ Actualmente combino el desarrollo de software con la **docencia universitaria**,
 
 ---
 
-### 🎓 Áreas de docencia
 
-| Materia | Enfoque |
-|---|---|
-| 🧩 Programación Orientada a Objetos | Fundamentos, diseño de clases, patrones |
-| ✅ Calidad de Software | Usabilidad, UX, guías de diseño, herramientas |
-| 📱 Programación Móvil | Desarrollo de apps con Ionic / Angular |
-| 🗂️ Gestión del Desarrollo de Software | Reingeniería, planes de prueba, herramientas |
-| 🖥️ Virtualización | VirtualBox, sistemas operativos |
 
 ---
 
