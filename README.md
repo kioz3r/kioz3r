@@ -3,7 +3,7 @@
 <h3 align="center">Ingeniero en Informática | Desarrollador Ionic · Angular · TypeScript | Docente Universitario</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End+de+apps+m%C3%B3viles+h%C3%ADbridas;5%2B+a%C3%B1os+creando+soluciones+con+Ionic+%2F+Angular;10%2B+a%C3%B1os+de+experiencia+en+TI;Profesor+de+Programaci%C3%B3n+Orientada+a+Objetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End+de+apps+m%C3%B3viles+h%C3%ADbridas;5%2B+a%C3%B1os+creando+soluciones+con+Ionic+%2F+Angular;10%2B+a%C3%B1os+de+experiencia+en+TI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,11 +53,7 @@ Actualmente combino el desarrollo de software con la **docencia universitaria**,
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-
-
----
 
 ### 💼 Experiencia profesional
 
@@ -78,15 +74,15 @@ Introduction to Cybersecurity — Cisco (2021)
 
 ### 📊 Estadísticas de GitHub
 
-> ℹ️ **Sobre las gráficas:** el servicio público `github-readme-stats.vercel.app` es gratuito y compartido por miles de perfiles, así que a veces se satura y las imágenes salen rotas — no es un error de tu README. Si no cargan, prueba recargar la página (Ctrl+Shift+R) en unos minutos. Si el problema persiste, la solución más estable es **hostear tu propia instancia gratis en Vercel** (fork del repo [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy con tu propio token de GitHub) para que las gráficas usen tu dominio en vez del compartido.
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kioz3r&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kioz3r&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kioz3r&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kioz3r&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+  
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kioz3r&theme=tokyonight&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kioz3r&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 </p>
 
 ---
